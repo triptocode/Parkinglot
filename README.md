@@ -4,7 +4,8 @@
 
 ## High Level Design
 
-* ![./doc/high_level_design.png](./doc/high_level_design.png)
+![high_level_design](https://github.com/triptocode/Parkinglot/assets/84559988/ece0b4ee-c192-4cf4-a0c2-cbbadeb58c89)
+
 
 물체가 다가오면 초음파센서로 인지하여 라즈베리파이로 통신를 보낸다.
 통신을 받은 라즈베리파이는 웹캠으로 물체를 촬영하고
