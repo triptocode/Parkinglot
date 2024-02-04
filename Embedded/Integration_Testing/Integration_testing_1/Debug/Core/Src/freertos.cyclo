@@ -1,0 +1,14 @@
+../Core/Src/freertos.c:104:6:delay	2
+../Core/Src/freertos.c:111:6:HAL_TIM_IC_CaptureCallback	11
+../Core/Src/freertos.c:183:6:HCSR04_Read_Left	1
+../Core/Src/freertos.c:192:6:HCSR04_Read_Right	1
+../Core/Src/freertos.c:201:6:HAL_UART_RxCpltCallback	1
+../Core/Src/freertos.c:234:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:248:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:323:6:SemaphoreTask	3
+../Core/Src/freertos.c:367:6:SemaphoreTask2	1
+../Core/Src/freertos.c:389:6:StartTask03	3
+../Core/Src/freertos.c:440:6:StartTask04	9
+../Core/Src/freertos.c:501:6:StartTask05	1
+../Core/Src/freertos.c:519:6:StartTask06	1
+../Core/Src/freertos.c:577:6:StartTask07	3

@@ -1,0 +1,12 @@
+../Core/Src/freertos.c:110:6:delay	16	static
+../Core/Src/freertos.c:117:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/freertos.c:189:6:HCSR04_Read_Left	8	static
+../Core/Src/freertos.c:198:6:HCSR04_Read_Right	8	static
+../Core/Src/freertos.c:207:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/freertos.c:238:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:252:6:MX_FREERTOS_Init	168	static
+../Core/Src/freertos.c:322:6:UltraSonicTask	16	static
+../Core/Src/freertos.c:344:6:ServoMotorTask	24	static
+../Core/Src/freertos.c:400:6:LcdTask	16	static
+../Core/Src/freertos.c:444:6:ManagerTask	16	static
+../Core/Src/freertos.c:505:6:RaspTask	16	static
