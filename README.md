@@ -21,13 +21,13 @@ DB와의 통신으로 해당 차량이 얼마나 오랫동안 주차장에 있�
 ## Clone code
 
 ```shell
-git clone https://github.com/HardCoding0417/Parking-lot-project
+git clone https://github.com/triptocode/Parkinglot.git
 ```
 
 * 리눅스에서 cli git을 사용하고 있다면 아래의 방법으로 clone한다.
 
 ```shell
-gh repo clone HardCoding0417/Parking-lot-project
+gh repo clone https://github.com/triptocode/Parkinglot.git
 ```
 
 ## Prerequite
